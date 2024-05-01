@@ -1,0 +1,42 @@
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.deps.json
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.runtimeconfig.json
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.pdb
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/System.Text.Json.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/Telegram.BotAPI.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.csproj.AssemblyReference.cache
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.AssemblyInfoInputs.cache
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.AssemblyInfo.cs
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.csproj.CoreCompileInputs.cache
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.csproj.CopyComplete
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/refint/Estate Example.dll
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.pdb
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.genruntimeconfig.cache
+/home/johnpork/Downloads/EstateExample/Estate Example/obj/Debug/net6.0/ref/Estate Example.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.deps.json
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.runtimeconfig.json
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Estate Example.pdb
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/System.Text.Json.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/Telegram.BotAPI.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.csproj.AssemblyReference.cache
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.AssemblyInfoInputs.cache
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.AssemblyInfo.cs
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.csproj.CoreCompileInputs.cache
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.csproj.CopyComplete
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/refint/Estate Example.dll
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.pdb
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/Estate Example.genruntimeconfig.cache
+/home/johnpork/Downloads/csharp/EstateExample/Estate Example/obj/Debug/net6.0/ref/Estate Example.dll
